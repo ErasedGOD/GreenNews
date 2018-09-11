@@ -1,0 +1,12 @@
+c:\users\andre\documents\visual studio 2013\Projects\GreenTest\GreenTest\bin\GreenTest.dll.config
+c:\users\andre\documents\visual studio 2013\Projects\GreenTest\GreenTest\bin\GreenTest.dll
+c:\users\andre\documents\visual studio 2013\Projects\GreenTest\GreenTest\bin\GreenTest.pdb
+c:\users\andre\documents\visual studio 2013\Projects\GreenTest\GreenTest\obj\Debug\GreenTest.csprojResolveAssemblyReference.cache
+c:\users\andre\documents\visual studio 2013\Projects\GreenTest\GreenTest\obj\Debug\GreenTest.dll
+c:\users\andre\documents\visual studio 2013\Projects\GreenTest\GreenTest\obj\Debug\GreenTest.pdb
+C:\GreenTest\GreenTest\bin\GreenTest.dll.config
+C:\GreenTest\GreenTest\bin\GreenTest.dll
+C:\GreenTest\GreenTest\bin\GreenTest.pdb
+C:\GreenTest\GreenTest\obj\Debug\GreenTest.csprojResolveAssemblyReference.cache
+C:\GreenTest\GreenTest\obj\Debug\GreenTest.dll
+C:\GreenTest\GreenTest\obj\Debug\GreenTest.pdb
